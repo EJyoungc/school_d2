@@ -1,8 +1,5 @@
-THEME: Enlight - Free Bootstrap Theme
-AUTHOR: ProBootstrap.com
-AUTHOR URI: https://probootstrap.com/
-Twitter: https://twitter.com/probootstrap
-Facebook: https://facebook.com/probootstrap
+THEME: school we. template
+AUTHOR: Elijah kawinga 
 
 
 CREDITS:
